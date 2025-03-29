@@ -1,0 +1,7 @@
+{
+  "name": "testWifi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
